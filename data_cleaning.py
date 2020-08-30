@@ -68,5 +68,3 @@ df.aws.value_counts()
 
 
 df.to_csv('salary_data_cleaned.csv', index = False)
-
-df.columns
