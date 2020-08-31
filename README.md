@@ -72,7 +72,7 @@ I tried three different models:
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
 *	**Random Forest** : MAE = 8.91
-*	**Lasson**: MAE = 9.21
+*	**Lasso Regression**: MAE = 9.21
 
 
 ## Productionization 
