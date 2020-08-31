@@ -51,7 +51,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
-![](/master/avgsalary.PNG "Salary by Position")
+![](https://github.com/Ibrahim-Abdalla/ds_salary_proj/blob/master/avgsalary.PNG)
 ![](/master/text.png "Most job")
 ![](/master/type of ownership.png "type of ownership")
 
