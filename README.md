@@ -54,8 +54,6 @@ I looked at the distributions of the data and the value counts for the various c
 ![](https://github.com/Ibrahim-Abdalla/ds_salary_proj/blob/master/type%20of%20ownership.png)
 
 ![](https://github.com/Ibrahim-Abdalla/ds_salary_proj/blob/master/avgsalary.PNG)
-
-
 ![](https://github.com/Ibrahim-Abdalla/ds_salary_proj/blob/master/text.png)
 
 
